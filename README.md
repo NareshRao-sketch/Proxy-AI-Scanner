@@ -1,4 +1,4 @@
-# proxy-ai-scanner
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9bda6e36-b8da-42ba-b271-e2b58d436d69" /><img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b863e241-34f8-49c7-af98-561ddad1d925" /># proxy-ai-scanner
 
 A desktop HTTP proxy tool that captures web traffic and lets you manually send any request to a local AI (Ollama) for security vulnerability analysis.
 
