@@ -123,4 +123,4 @@ Do not use it against systems you do not have permission to test.
 
 ## Author
 
-Naresh Rao H — [HackerOne](https://hackerone.com/YOUR-H1-USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-ID)
+Naresh Rao H — [Email](nareshraonr1@gmail.com)
