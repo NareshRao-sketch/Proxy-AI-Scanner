@@ -123,4 +123,4 @@ Do not use it against systems you do not have permission to test.
 
 ## Author
 
-Naresh Rao H — [Email](nareshraonr1@gmail.com)
+Naresh Rao H — nareshraonr1@gmail.com
