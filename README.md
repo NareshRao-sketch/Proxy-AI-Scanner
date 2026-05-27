@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9bda6e36-b8da-42ba-b271-e2b58d436d69" /><img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b863e241-34f8-49c7-af98-561ddad1d925" /># proxy-ai-scanner
+# proxy-ai-scanner
 
 A desktop HTTP proxy tool that captures web traffic and lets you manually send any request to a local AI (Ollama) for security vulnerability analysis.
 
@@ -19,6 +19,15 @@ Built with Python and PyQt6. Inspired by Burp Suite.
 
 ## Screenshots
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a88e2c7e-2aab-4a1f-b55b-d5c152d456d6" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/10a5459e-64b8-420d-b9b0-ffc246486f86" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/bf16aef9-6f8f-4d64-a978-7f447398e702" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/69fd6622-2a64-4383-a49b-bc1170fbd1c3" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5e70b527-730b-4138-9be0-d85895799e46" />
 
 
 ---
@@ -35,7 +44,7 @@ Built with Python and PyQt6. Inspired by Burp Suite.
 
 **1. Clone the repo**
 ```
-git clone https://github.com/YOUR-GITHUB-USERNAME/proxy-ai-scanner.git
+git clone https://github.com/NareshRao-sketch/proxy-ai-scanner.git
 cd proxy-ai-scanner
 ```
 
