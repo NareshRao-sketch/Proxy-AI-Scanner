@@ -19,7 +19,8 @@ Built with Python and PyQt6. Inspired by Burp Suite.
 
 ## Screenshots
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a88e2c7e-2aab-4a1f-b55b-d5c152d456d6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7bd8697f-c0e6-49b1-a15b-8b050e6df562" />
+
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/10a5459e-64b8-420d-b9b0-ffc246486f86" />
 
